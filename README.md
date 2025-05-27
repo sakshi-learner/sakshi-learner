@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sakshi-learner a 2nd year b.tech(computer science) student.
+- 👋 Hi, I’m @sakshi-learner a  b.tech(computer science) student.
 - 👀 I’m interested in website development by MARN Stak. 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on fronted project 
