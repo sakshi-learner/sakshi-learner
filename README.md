@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sakshi-learner a  b.tech(computer science) student.
-- 👀 I’m interested in website development by MARN Stak. 
+- 👀 I’m interested in website development by MERN Stak. 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on development project 
 - 📫 How to reach me sakshees846@gmail.com 
