@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sakshi-learner a b.tech(computer science) student.<br>👀 I’m interested in Software Devlopment.<br>🌱 I’m currently learning java<br>💞️ I’m looking to collaborate on development project<br>📫 How to reach me sakshees846@gmail.com<br>⚡ Fun fact: ...
+👋 Hi, I’m @sakshi-learner a b.tech(computer science) student.<br>👀 I’m interested in Software Devlopment.<br>🌱 I’m currently learning java<br>💞️ I’m looking to collaborate on development project<br>📫 How to reach me sakshees846@gmail.com<br>
 
 
 ## 🌐 Socials:
