@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sakshi singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshee-singh-38ba48272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshees846@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100071120324353) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sakshee-singh-38ba48272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshees846@gmail.com) 
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/sakshees846@gmail.com) 
